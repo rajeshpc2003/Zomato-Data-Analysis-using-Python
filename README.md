@@ -1,29 +1,35 @@
 # Zomato Data Analysis using Python
-
-This project performs **data analysis on Zomato restaurant data** to extract meaningful insights about restaurant trends, ratings, cuisines, and locations.  
-It demonstrates the use of **Python libraries such as Pandas, NumPy, Matplotlib, and Seaborn** for data cleaning, processing, and visualization.
-
----
-
-# Project Overview
-
+This project performs data analysis on Zomato restaurant data to extract meaningful insights about restaurant trends, ratings, cuisines, and locations.
+<br>
+It demonstrates the use of Python libraries such as Pandas, NumPy, Matplotlib, and Seaborn for data cleaning, processing, and visualization.
+<br>
+<br>
+**Project Overview**
+<br>
 The goal of this project is to analyze Zomato's dataset to answer questions like:
-- Which countries have the highest number of restaurants listed?
-- What are the most popular cuisines and price ranges?
-- How do ratings vary across countries or cuisines?
-- What factors influence restaurant ratings?
-
-This project is inspired by the tutorial from [GeeksforGeeks: Zomato Data Analysis using Python](https://www.geeksforgeeks.org/data-science/zomato-data-analysis-using-python/).
-
----
-
-# Technologies Used
-
-- **Python 3.x**
-- **Pandas** — for data manipulation and cleaning  
-- **NumPy** — for numerical computations  
-- **Matplotlib** — for data visualization  
-- **Seaborn** — for advanced visual plots  
-- **Jupyter Notebook / VS Code** — for running the analysis
-
----
+<br>
+-- Which countries have the highest number of restaurants listed?
+<br>
+-- What are the most popular cuisines and price ranges?
+<br>
+-- How do ratings vary across countries or cuisines?
+<br>
+-- What factors influence restaurant ratings?
+<br>
+<br>
+This project is inspired by the tutorial from (<a href="https://www.geeksforgeeks.org/data-science/zomato-data-analysis-using-python" target="_blank">GeeksforGeeks</a>).
+<br>
+<br>
+**Technologies Used**
+<br>
+-- Python 3.x
+<br>
+-- Pandas — for data manipulation and cleaning
+<br>
+-- NumPy — for numerical computations
+<br>
+-- Matplotlib — for data visualization
+<br>
+-- Seaborn — for advanced visual plots
+<br>
+-- Jupyter Notebook / Google Collab — for running the analysis
