@@ -24,12 +24,12 @@ This project is inspired by the tutorial from (<a href="https://www.geeksforgeek
 <br>
 -- Python 3.x
 <br>
--- Pandas — for data manipulation and cleaning
+-- Pandas:for data manipulation and cleaning
 <br>
--- NumPy — for numerical computations
+-- NumPy:for numerical computations
 <br>
--- Matplotlib — for data visualization
+-- Matplotlib:for data visualization
 <br>
--- Seaborn — for advanced visual plots
+-- Seaborn:for advanced visual plots
 <br>
--- Jupyter Notebook / Google Collab — for running the analysis
+-- Jupyter Notebook / Google Collab:for running the analysis
